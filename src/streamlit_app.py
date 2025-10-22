@@ -412,5 +412,4 @@ elif page == "Advanced Analytics":
         st.info("Cross-sell pair extraction not available (dataset size or joins).")
 
 # ---------- End pages ----------
-st.sidebar.markdown("---")
-st.sidebar.caption("Built for: Amazon India — 2015–2025 dataset\nBy: your AI mentor. Tweak DB creds at top (src file).")
+
