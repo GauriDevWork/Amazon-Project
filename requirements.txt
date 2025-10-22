@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+sqlalchemy
+pymysql
+python-dateutil
+streamlit
+scikit-learn
+openpyxl
+pyarrow
+squarify
+geopandas                   # only if you plan choropleths locally (may require system deps)
